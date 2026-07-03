@@ -1,4 +1,4 @@
-package com.resortassistant
+package com.totalresort.explorer
 
 import android.app.Application
 import com.facebook.react.PackageList

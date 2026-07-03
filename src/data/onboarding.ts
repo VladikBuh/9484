@@ -2,7 +2,7 @@ import { OnboardingPage } from '../types';
 
 export const onboardingData: OnboardingPage[] = [
   {
-    title: 'Welcome to Total Resort Assistant',
+    title: 'Welcome to Total Resort Explorer',
     subtitle:
       'Access your reservation details, room number, stay dates, and booking code in one premium guest app.',
     emoji: '🏨',

@@ -70,7 +70,7 @@ export function TabBar() {
 
 const styles = StyleSheet.create({
   TabBarChassis: {
-    backgroundColor: colors.darkCard,
+    backgroundColor: colors.elevatedCard,
     paddingTop: 10,
     paddingHorizontal: 8,
     borderTopColor: colors.primaryGold,

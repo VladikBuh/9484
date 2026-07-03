@@ -1,4 +1,4 @@
-package com.resortassistant
+package com.totalresort.explorer
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

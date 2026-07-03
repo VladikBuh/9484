@@ -38,10 +38,22 @@ export function HomeScreen() {
         end={{ x: 1, y: 1 }}
         style={[styles.HomeScreenHero, { height: verticalScale(220) }]}
       >
-        <View style={[styles.HomeScreenHeroGlow, { width: scale(160), height: scale(160), top: -scale(40), right: -scale(40) }]} />
+        <View
+          style={[
+            styles.HomeScreenHeroGlow,
+            {
+              width: scale(160),
+              height: scale(160),
+              top: -scale(40),
+              right: -scale(40),
+            },
+          ]}
+        />
         <View style={styles.HomeScreenHeroInner}>
           <Text style={styles.HomeScreenHeroEmoji}>🏨</Text>
-          <Text style={styles.HomeScreenHeroHotelName}>Total Resort Assistant</Text>
+          <Text style={styles.HomeScreenHeroHotelName}>
+            Total Resort Explorer
+          </Text>
         </View>
         <View style={styles.HomeScreenHeroOverlay} />
         <View style={styles.HomeScreenHeroText}>

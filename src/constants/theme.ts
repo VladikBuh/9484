@@ -2,7 +2,7 @@ export const DESIGN_WIDTH = 390;
 export const DESIGN_HEIGHT = 844;
 
 export const colors = {
-  background: '#060818',
+  background: '#262C52',
   midnight: '#090D24',
   graphiteCard: '#121725',
   darkCard: '#181E2E',

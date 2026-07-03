@@ -88,7 +88,7 @@ export function LoaderScreen() {
           }}
         >
           <Text style={styles.LoaderScreenTitle}>TOTAL RESORT</Text>
-          <Text style={styles.LoaderScreenSubtitle}>ASSISTANT</Text>
+          <Text style={styles.LoaderScreenSubtitle}>EXPLORER</Text>
         </Animated.View>
 
         <Animated.View
